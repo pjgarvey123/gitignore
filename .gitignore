@@ -1,3 +1,7 @@
+#ignore all files in the bin directory
 new-file.txt
 
+#ignore all files in the bin directory
 bin/
+
+#ignore all .tpm files
